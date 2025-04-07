@@ -5,7 +5,7 @@ Dataset Features include:
 
 Name Age Heart beat Other medical metrics
 
-Installation Clone the repository: bash Copy code git clone https://github.com/Rahulchoudhary/heart-disease-prediction.git cd heart-disease-prediction
+Installation Clone the repository: bash Copy code git clone https://github.com/Rahul-choudhary/heart-disease-prediction.git cd heart-disease-prediction
 
 Install dependencies: bash Copy code pip install -r requirements.txt Usage Prepare the dataset in data/ directory. Train the model: bash Copy code python train_model.py Make predictions: bash Copy code python predict.py --input data/input.csv --output results/predictions.csv Results Model performance metrics (accuracy, precision, recall, F1-score) are available in the results/ directory.
 
